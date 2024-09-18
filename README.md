@@ -4,6 +4,8 @@
 <span style="font-size:12px">𝐵𝒾𝓉𝓇𝒾𝓍 𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒r</span></div>
 
 # Hi, i'm Alexandr 
-&emsp;&emsp;&emsp;&emsp;&emsp;- I am 38 years old.</br>
-&emsp;&emsp;&emsp;&emsp;&emsp;- I am studying to be a bitrix developer at a Netology company.</br>
-&emsp;&emsp;&emsp;&emsp;&emsp;- . . . . . . . . . .
+<ul>
+    <li>I am 38 years old.</li>
+    <li>I am studying to be a bitrix developer at a Netology company.</li>
+    <li>. . . . . . . . . . . . . . . . . . .</li>
+</ul>
